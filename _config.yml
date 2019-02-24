@@ -34,7 +34,7 @@ tagline:               >
 keywords:              [Minecraft]
 
 # Used by jekyll-seo-tag.
-logo:                  /assets/icons/icon.png
+logo:                  /assets/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
