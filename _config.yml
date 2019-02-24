@@ -291,3 +291,6 @@ compress_html:
 
 sass:
   style:               compressed
+menu:
+  - title: test
+    url:   /test/
