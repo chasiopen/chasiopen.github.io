@@ -34,7 +34,7 @@ tagline:               >
 keywords:              [Minecraft]
 
 # Used by jekyll-seo-tag.
-logo:                  /assets/icon.png
+logo:                  /assets/icon256x.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -46,8 +46,7 @@ author:
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
-  © 2019. All rights reserved.
-  A New Story.
+  这是新的故事，关于你的故事…… © 2019.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -70,7 +69,7 @@ paginate_path:         /page-:num/
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/bg.jpg
-accent_color:          rgb(118,230,125)
+accent_color:          rgb(39,202,213)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
