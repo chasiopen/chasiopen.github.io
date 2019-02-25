@@ -3,18 +3,18 @@
 layout: list
 
 # The title of the tag's page.
-title: Mind丨狂涌
+title: Tale丨传说
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: blog
+slug: story
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  无法抑制的思想
-  记下一些
-  给过去、未来的自己
+  每块土地 总有一些 流传的故事	
+  它们口口相传	
+  不经意间 到了这里……
 
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true
-order: 4
+order: 2
 ---
