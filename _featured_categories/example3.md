@@ -10,7 +10,7 @@ slug: test
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  yong lai ce shi
+  用来测试
 
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true
