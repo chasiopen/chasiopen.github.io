@@ -69,7 +69,7 @@ paginate_path:         /page-:num/
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/bg.jpg
-accent_color:          rgb(39,202,213)
+accent_color:          rgb(28,103,154)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
@@ -226,7 +226,7 @@ plugins:
 # Theme
 # ---------------------------------------------------------------------------------------
 
-remote_theme: qwtel/hydejack@v8.1.1
+remote_theme: StoryOfEndCentury
 
 
 # SEO Tag
@@ -290,6 +290,3 @@ compress_html:
 
 sass:
   style:               compressed
-menu:
-  - title: test
-    url:   /categories/test/

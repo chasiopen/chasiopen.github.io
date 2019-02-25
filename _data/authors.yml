@@ -9,9 +9,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    世事无常。
-    
-    就这样吧。
+    >天地滂沱如何渡
+     蓑衣褪尽任浊流
 
   # This photo will be used in the about section.
   picture:
