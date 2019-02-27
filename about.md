@@ -8,8 +8,6 @@ menu: true
 order: 5
 ---
 
-# About丨关于
-
 ### 因缘
 
 ​	无意间从[酒石酸](https://tartaricacid.github.io/tag/wiki/)那里发现了一种利用Jekyll与GitHub可以制作静态网页和博客。就抱着这样的想法慢慢摸索，最终有了现在你看到的这些。
