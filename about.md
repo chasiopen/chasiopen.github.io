@@ -28,7 +28,7 @@ order: 5
 
 #### 另外的
 
-感谢 [Hydejack](https://hydejack.com/] 在Jekll上提供的模板！
+感谢 [Hydejack](https://hydejack.com/])在Jekll上提供的模板！
 
 
 
