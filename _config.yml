@@ -19,7 +19,7 @@
 lang:                  zh_CN
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 CHA Siopen
+title:                 ChAsiopen
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -39,14 +39,14 @@ logo:                  /assets/icon256x.jpg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                CHA Siopen
+  name:                ChAsiopen
   email:               chasiopen@qq.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
-  这是新的故事，关于你的故事…… © 2019.
+  这是新的故事，关于你的故事…… © 2020.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
