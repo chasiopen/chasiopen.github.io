@@ -17,7 +17,7 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  zh
+lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 花 / 垂天云
@@ -32,7 +32,7 @@ description:           >
 tagline:               无人知此意 / 歌罢满风帘
 
 # A list of keywords for your blog
-keywords:              chasiopenblog
+keywords:              []
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -42,8 +42,8 @@ logo:                  /assets/img/logo.jpg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                SIOPEN CHA
-  email:               chasiopen@qq.com
+  name:                <firstname> <lastname>
+  email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -89,7 +89,7 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
 
 theme: jekyll-theme-hydejack
-#remote_theme: hydecorp/hydejack@v9.1.6
+# remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
@@ -445,5 +445,3 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
-
-theme: jekyll-theme-cayman
