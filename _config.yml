@@ -50,9 +50,9 @@ author:
 # Add links to the sidebar.
 menu:
   - title: MIND | 狂涌
-    url: /POSTMIND/
+    url: /postmind/
   - title: TALE | 灯火
-    url: /POSTTALE/
+    url: /posttale/
   #- title:             Example
   # url:               /example/
   #- title:             Documentation
